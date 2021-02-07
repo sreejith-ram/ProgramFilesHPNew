@@ -1,0 +1,10 @@
+import java.time.LocalDate;
+
+public class DateDeno {
+
+	public static void main(String[] args) {
+		LocalDate Birthday =LocalDate.of(1999, 8, 8);
+		System.out.println(Birthday);
+	}
+
+}
